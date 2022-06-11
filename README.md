@@ -9,3 +9,6 @@ A tools to bruteforcing facebook account in Indonesian language
 # Preview
 <img src="ss1.jpg" width="300" height="400"><br>
 <img src="ss2.jpg" width="300" height="400"><br>
+
+# Thanks to :
+• YouthBoys
