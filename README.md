@@ -11,4 +11,5 @@ A tools to bruteforcing facebook account in Indonesian language
 <img src="ss2.jpg" width="300" height="400"><br>
 
 # Thanks to :
+• Alloh Swt
 • YouthBoys
